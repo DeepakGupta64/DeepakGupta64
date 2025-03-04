@@ -17,7 +17,7 @@ Hi, I'm Deepak Gupta, a Technology & Cloud enthusiast with a passion to integrat
 
 I am currently working towards the following Azure certifications to enhance my skills and expertise in cloud services and AI technologies:
 
-1. **AI-900: Microsoft Azure AI Fundamentals** - _Achieved, January 15th, 2025_
+1. **AI-900: Microsoft Azure AI Fundamentals** - <!-- _Achieved, January 15th, 2025_ -->
    - A foundational certification focused on the principles of AI and machine learning within the Azure ecosystem.
    - **Skills covered**: Machine learning, AI workloads, Azure Cognitive Services, responsible AI.
    - [More about AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900)  
