@@ -7,7 +7,7 @@ Hi, I'm Deepak Gupta, a Technology & Cloud enthusiast with a passion to integrat
 - 💼 I’m considering earning few Certification to progress in my career.
 
 ## Skills
-- **Languages:** HCL, PowerShell, Bash, YAML, Ansible, Powershell
+- **Languages:** Terraform, PowerShell, Bash, YAML, Ansible, Powershell
 - **Tools:** Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps
 - **Cloud Providers:** Azure, AWS, GCP
 
